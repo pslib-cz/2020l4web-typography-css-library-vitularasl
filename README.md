@@ -42,5 +42,10 @@ This is CSS typography stylesheet for online blog. CSS file is styling following
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, debitis. Deserunt molestias quibusdam obcaecati voluptas temporibus aperiam, vero a animi accusantium, magni minima ad architecto quisquam distinctio autem iusto nesciunt?</p>
 </article>
 ```
-
-
+### Photos
+```
+<figure>
+    <img src="img/IMG_1099.jpg" alt="Mech ve vodopádu">
+    <figcaption>Mech ve vodopádu</figcaption>
+</figure>
+```
