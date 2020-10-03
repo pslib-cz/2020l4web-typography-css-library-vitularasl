@@ -22,15 +22,15 @@ Link to **[demo](https://vitularasl.github.io/typograpg/#)** site for preview.
 ```
 ## Usage
 This is CSS typography stylesheet for online blog. CSS file is styling following tags:
-* h1-h3
-* p
-* a
-* u
-* mark
-* ul, ol, li
-* b, strong
-* em
-* figure, img, figcaption
+- h1-h3
+- p
+- a
+- u
+- mark
+- ul, ol, li
+- b, strong
+- em
+- figure, img, figcaption
 
 ## Components
 ### Article
