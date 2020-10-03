@@ -3,8 +3,8 @@
 ## Demo site
 Link to **[demo](https://vitularasl.github.io/typograpg/#)** site for preview.
 ## Dependecies
-*https://necolas.github.io/normalize.css/
-*https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap
+- https://necolas.github.io/normalize.css/
+- https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap
 ## Implementation
 ```
 <head>
