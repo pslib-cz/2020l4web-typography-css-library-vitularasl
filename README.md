@@ -4,7 +4,7 @@
 Link to **[demo](https://vitularasl.github.io/typograpg/#)** site for preview.
 ## Dependecies
 - https://necolas.github.io/normalize.css/
-- https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap
+- https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Roboto&display=swap
 ## Implementation
 ```
 <head>
@@ -17,7 +17,7 @@ Link to **[demo](https://vitularasl.github.io/typograpg/#)** site for preview.
     <link rel="stylesheet" href="style/css.css">
 
     <!--Font import-->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Roboto&display=swap" rel="stylesheet">
 </head>
 ```
 ## Usage
@@ -25,7 +25,6 @@ This is CSS typography stylesheet for online blog. CSS file is styling following
 - h1-h3
 - p
 - a
-- u
 - mark
 - ul, ol, li
 - b, strong
@@ -35,16 +34,16 @@ This is CSS typography stylesheet for online blog. CSS file is styling following
 ## Components
 ### Article
 ```
-<article>
-    <h2>Header 2</h2>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur ratione reiciendis       voluptas repellendus quos, a minus repudiandae soluta mollitia dolore dignissimos quasi accusamus numquam ullam modi rerum, sint non itaque?</p>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eaque asperiores excepturi libero? Quasi ullam nostrum quas magni eius placeat quis. Mollitia laborum, laboriosam asperiores similique tempore distinctio in ipsum.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, debitis. Deserunt molestias quibusdam obcaecati voluptas temporibus aperiam, vero a animi accusantium, magni minima ad architecto quisquam distinctio autem iusto nesciunt?</p>
-</article>
+<article class="article">
+        <h2>Header 2</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur ratione reiciendis voluptas repellendus quos, a minus repudiandae soluta mollitia dolore dignissimos quasi accusamus numquam ullam modi rerum, sint non itaque?</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eaque asperiores excepturi libero? Quasi ullam nostrum quas magni eius placeat quis. Mollitia laborum, laboriosam asperiores similique tempore distinctio in ipsum.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, debitis. Deserunt molestias quibusdam obcaecati voluptas temporibus aperiam, vero a animi accusantium, magni minima ad architecto quisquam distinctio autem iusto nesciunt?</p>
+    </article>
 ```
 ### Photos
 ```
-<figure>
+<figure class="photo">
     <img src="img/IMG_1099.jpg" alt="Mech ve vodopádu">
     <figcaption>Mech ve vodopádu</figcaption>
 </figure>
