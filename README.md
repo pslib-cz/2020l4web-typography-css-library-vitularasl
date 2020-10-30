@@ -1,7 +1,7 @@
 # Typography CSS library
 **Author:** *Vítězslav Rasl*
 ## Demo site
-Link to **[demo](https://vitularasl.github.io/typograpg/#)** site for preview.
+Link to **[demo](https://pslib-cz.github.io/typography/)** site for preview.
 ## Dependecies
 - https://necolas.github.io/normalize.css/
 - https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Roboto&display=swap
